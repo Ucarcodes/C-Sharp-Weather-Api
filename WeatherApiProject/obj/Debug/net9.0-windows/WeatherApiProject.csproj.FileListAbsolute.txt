@@ -1,0 +1,40 @@
+C:\Users\Mevlut\Desktop\Udemy C#\Tek Tek Projeler\WeatherApiProject\WeatherApiProject\bin\Debug\net9.0-windows\WeatherApiProject.exe
+C:\Users\Mevlut\Desktop\Udemy C#\Tek Tek Projeler\WeatherApiProject\WeatherApiProject\bin\Debug\net9.0-windows\WeatherApiProject.deps.json
+C:\Users\Mevlut\Desktop\Udemy C#\Tek Tek Projeler\WeatherApiProject\WeatherApiProject\bin\Debug\net9.0-windows\WeatherApiProject.runtimeconfig.json
+C:\Users\Mevlut\Desktop\Udemy C#\Tek Tek Projeler\WeatherApiProject\WeatherApiProject\bin\Debug\net9.0-windows\WeatherApiProject.dll
+C:\Users\Mevlut\Desktop\Udemy C#\Tek Tek Projeler\WeatherApiProject\WeatherApiProject\bin\Debug\net9.0-windows\WeatherApiProject.pdb
+C:\Users\Mevlut\Desktop\Udemy C#\Tek Tek Projeler\WeatherApiProject\WeatherApiProject\obj\Debug\net9.0-windows\WeatherApiProject.Form1.resources
+C:\Users\Mevlut\Desktop\Udemy C#\Tek Tek Projeler\WeatherApiProject\WeatherApiProject\obj\Debug\net9.0-windows\WeatherApiProject.csproj.GenerateResource.cache
+C:\Users\Mevlut\Desktop\Udemy C#\Tek Tek Projeler\WeatherApiProject\WeatherApiProject\obj\Debug\net9.0-windows\WeatherApiProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mevlut\Desktop\Udemy C#\Tek Tek Projeler\WeatherApiProject\WeatherApiProject\obj\Debug\net9.0-windows\WeatherApiProject.AssemblyInfoInputs.cache
+C:\Users\Mevlut\Desktop\Udemy C#\Tek Tek Projeler\WeatherApiProject\WeatherApiProject\obj\Debug\net9.0-windows\WeatherApiProject.AssemblyInfo.cs
+C:\Users\Mevlut\Desktop\Udemy C#\Tek Tek Projeler\WeatherApiProject\WeatherApiProject\obj\Debug\net9.0-windows\WeatherApiProject.csproj.CoreCompileInputs.cache
+C:\Users\Mevlut\Desktop\Udemy C#\Tek Tek Projeler\WeatherApiProject\WeatherApiProject\obj\Debug\net9.0-windows\WeatherApiProject.dll
+C:\Users\Mevlut\Desktop\Udemy C#\Tek Tek Projeler\WeatherApiProject\WeatherApiProject\obj\Debug\net9.0-windows\refint\WeatherApiProject.dll
+C:\Users\Mevlut\Desktop\Udemy C#\Tek Tek Projeler\WeatherApiProject\WeatherApiProject\obj\Debug\net9.0-windows\WeatherApiProject.pdb
+C:\Users\Mevlut\Desktop\Udemy C#\Tek Tek Projeler\WeatherApiProject\WeatherApiProject\obj\Debug\net9.0-windows\WeatherApiProject.genruntimeconfig.cache
+C:\Users\Mevlut\Desktop\Udemy C#\Tek Tek Projeler\WeatherApiProject\WeatherApiProject\obj\Debug\net9.0-windows\ref\WeatherApiProject.dll
+C:\Users\Mevlut\Desktop\Udemy C#\Tek Tek Projeler\WeatherApiProject\WeatherApiProject\bin\Debug\net9.0-windows\Newtonsoft.Json.dll
+C:\Users\Mevlut\Desktop\Udemy C#\Tek Tek Projeler\WeatherApiProject\WeatherApiProject\obj\Debug\net9.0-windows\WeatherApiProject.csproj.AssemblyReference.cache
+C:\Users\Mevlut\Desktop\Udemy C#\Tek Tek Projeler\WeatherApiProject\WeatherApiProject\obj\Debug\net9.0-windows\WeatherA.ABAFDD74.Up2Date
+C:\Users\Mevlut\Desktop\Udemy C#\Tek Tek Projeler\WeatherApiProject\WeatherApiProject\obj\Debug\net9.0-windows\WeatherApiProject.Properties.Resources.resources
+C:\Users\Mevlut\Desktop\WeatherApiProject\WeatherApiProject\bin\Debug\net9.0-windows\WeatherApiProject.exe
+C:\Users\Mevlut\Desktop\WeatherApiProject\WeatherApiProject\bin\Debug\net9.0-windows\WeatherApiProject.deps.json
+C:\Users\Mevlut\Desktop\WeatherApiProject\WeatherApiProject\bin\Debug\net9.0-windows\WeatherApiProject.runtimeconfig.json
+C:\Users\Mevlut\Desktop\WeatherApiProject\WeatherApiProject\bin\Debug\net9.0-windows\WeatherApiProject.dll
+C:\Users\Mevlut\Desktop\WeatherApiProject\WeatherApiProject\bin\Debug\net9.0-windows\WeatherApiProject.pdb
+C:\Users\Mevlut\Desktop\WeatherApiProject\WeatherApiProject\bin\Debug\net9.0-windows\Newtonsoft.Json.dll
+C:\Users\Mevlut\Desktop\WeatherApiProject\WeatherApiProject\obj\Debug\net9.0-windows\WeatherApiProject.csproj.AssemblyReference.cache
+C:\Users\Mevlut\Desktop\WeatherApiProject\WeatherApiProject\obj\Debug\net9.0-windows\WeatherApiProject.Form1.resources
+C:\Users\Mevlut\Desktop\WeatherApiProject\WeatherApiProject\obj\Debug\net9.0-windows\WeatherApiProject.Properties.Resources.resources
+C:\Users\Mevlut\Desktop\WeatherApiProject\WeatherApiProject\obj\Debug\net9.0-windows\WeatherApiProject.csproj.GenerateResource.cache
+C:\Users\Mevlut\Desktop\WeatherApiProject\WeatherApiProject\obj\Debug\net9.0-windows\WeatherApiProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mevlut\Desktop\WeatherApiProject\WeatherApiProject\obj\Debug\net9.0-windows\WeatherApiProject.AssemblyInfoInputs.cache
+C:\Users\Mevlut\Desktop\WeatherApiProject\WeatherApiProject\obj\Debug\net9.0-windows\WeatherApiProject.AssemblyInfo.cs
+C:\Users\Mevlut\Desktop\WeatherApiProject\WeatherApiProject\obj\Debug\net9.0-windows\WeatherApiProject.csproj.CoreCompileInputs.cache
+C:\Users\Mevlut\Desktop\WeatherApiProject\WeatherApiProject\obj\Debug\net9.0-windows\WeatherA.ABAFDD74.Up2Date
+C:\Users\Mevlut\Desktop\WeatherApiProject\WeatherApiProject\obj\Debug\net9.0-windows\WeatherApiProject.dll
+C:\Users\Mevlut\Desktop\WeatherApiProject\WeatherApiProject\obj\Debug\net9.0-windows\refint\WeatherApiProject.dll
+C:\Users\Mevlut\Desktop\WeatherApiProject\WeatherApiProject\obj\Debug\net9.0-windows\WeatherApiProject.pdb
+C:\Users\Mevlut\Desktop\WeatherApiProject\WeatherApiProject\obj\Debug\net9.0-windows\WeatherApiProject.genruntimeconfig.cache
+C:\Users\Mevlut\Desktop\WeatherApiProject\WeatherApiProject\obj\Debug\net9.0-windows\ref\WeatherApiProject.dll
