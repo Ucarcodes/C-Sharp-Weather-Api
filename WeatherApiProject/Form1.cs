@@ -10,12 +10,15 @@ namespace WeatherApiProject
         {
             InitializeComponent();
         }
+        string apiKey = Environment.GetEnvironmentVariable("RapidAPIKey"); // Ortam deðiþkeni kullan
 
         private async void Form1_Load(object sender, EventArgs e)
         {
+
+
             labelSifirla();
 
-
+         
 
             var client = new HttpClient();
             var request = new HttpRequestMessage
@@ -24,7 +27,7 @@ namespace WeatherApiProject
                 RequestUri = new Uri("https://open-weather13.p.rapidapi.com/city/Ankara/EN"),
                 Headers =
     {
-        { "x-rapidapi-key", "915074c7f8msh118266075d69489p1a9becjsnac5ef5fb21b6" },
+        { "x-rapidapi-key", apiKey },
         { "x-rapidapi-host", "open-weather13.p.rapidapi.com" },
     },
             };
